@@ -3,7 +3,7 @@
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&weight=900&size=40&pause=1000&color=D7D2CC&background=0D1117&center=true&vCenter=true&random=false&width=1000&height=60&lines=Ol%C3%A1%2C+me+chamo+F%C3%A1bio!;Eu+tenho+19+anos;Sou+um+desenvolvedor+Frontend;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&weight=900&size=40&pause=1000&color=D7D2CC&background=0D1117&center=true&vCenter=true&random=false&width=1000&height=60&lines=Ol%C3%A1%2C+me+chamo+F%C3%A1bio!;Eu+tenho+20+anos;Sou+um+desenvolvedor+Frontend;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ### Principais linguagens:
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
