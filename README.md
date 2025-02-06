@@ -18,13 +18,15 @@ Olá! Meu nome é Fábio da Silva Ramalho, tenho 20 anos e sou formado em Análi
   <img alt="instagram"
   title="Me siga no Instagram!"
   src="https://img.shields.io/badge/Instagram-E4705F?style=for-the-badge&logo=instagram&logoColor=white"
-  style="border-radius: 30px"/>
+  style="border-radius: 30px"
+  target="_blank"/>
 </a>
 <a href="https://www.linkedin.com/in/fabiodasilvaramalho/" 
   target="_blank">
   <img alt="linkedin"
   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-  style="border-radius: 30px">
+  style="border-radius: 30px"
+  target="_blank">
 </a> 
 
 <div align=center>
