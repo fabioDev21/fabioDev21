@@ -9,11 +9,8 @@
 ![HTML5](https://img.shields.io/badge/-html5-FFB169?style=for-the-badge&logo=html5&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-FFB169?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB169?style=for-the-badge&logo=javascript&labelColor=0D1117)
-
-### Aprendendo constantemente:
-![Node.js](https://img.shields.io/badge/-node.js-FFB169?style=for-the-badge&logo=Node.js&labelColor=0D1117)
-![React.js](https://img.shields.io/badge/-react-FFB169?style=for-the-badge&logo=react&labelColor=0D1117)
 ![Mysql](https://img.shields.io/badge/-mysql-FFB169?style=for-the-badge&logo=mysql&labelColor=0D1117)
+![CypressJS](https://img.shields.io/badge/Cypress-FFB169?style=for-the-badge&logo=cypress&logoColor=0D1117)
 
 ### Futuro aprendizado:
 <strong>Backend</strong>
