@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFB169&section=header&reversal=false&textBg=false">
 
 <div align=center>
+  
 ### Um pouco sobre mim...
 Olá! Meu nome é Fábio da Silva Ramalho, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, onde desenvolvi minha curiosidade pela tecnologia. Busco atuar como Analista de Qualidade de Software e, nas horas vagas, crio projetos web (frontend e backend), automações e games! 🚀
 
