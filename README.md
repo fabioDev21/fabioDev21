@@ -3,7 +3,7 @@
 <div align=center>
   
 ### Um pouco sobre mim...
-Olá! Meu nome é Fábio da Silva Ramalho, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, onde desenvolvi minha curiosidade pela tecnologia. Busco atuar como Analista de Qualidade de Software e, nas horas vagas, crio projetos web (frontend e backend), automações e games! 🚀
+Olá! Meu nome é Fábio da Silva Ramalho, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, onde desenvolvi minha curiosidade pela tecnologia. Busco atuar como Analista de Qualidade de Software e, nas horas vagas, crio projetos web (frontend e backend) e games! 🚀
 
 ### Linguagens & Ferramentas:
 ![HTML5](https://img.shields.io/badge/-html5-FFB169?style=for-the-badge&logo=html5&logoColor=0D1117)
