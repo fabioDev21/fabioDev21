@@ -32,7 +32,7 @@ Olá! Meu nome é Fábio da Silva Ramalho, tenho 20 anos e sou formado em Análi
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=fabioDev21&show_icons=true&bg_color=39414E&text_color=d7d2cc&icon_color=d7d2cc&title_color=d7d2cc&border_color=d7d2cc&border_radius=15&locale=pt-br">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodev21&layout=compact&locale=pt-br&bg_color=39414E&text_color=d7d2cc&icon_color=d7d2cc&title_color=d7d2cc&border_color=d7d2cc&border_radius=10">
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodev21&layout=compact&locale=pt-br&bg_color=39414E&text_color=d7d2cc&icon_color=d7d2cc&title_color=d7d2cc&border_color=d7d2cc&border_radius=10">
 </div>
 
 
