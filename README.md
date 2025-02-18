@@ -29,7 +29,7 @@ Olá! Meu nome é Fábio da Silva Ramalho, tenho 20 anos e sou formado em Análi
 </a> 
 </div>
 
-<div>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=fabioDev21&show_icons=true&bg_color=39414E&text_color=d7d2cc&icon_color=d7d2cc&title_color=d7d2cc&border_color=d7d2cc&border_radius=15&locale=pt-br">
 </div>
 
