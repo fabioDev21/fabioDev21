@@ -12,27 +12,26 @@ Olá! Meu nome é Fábio da Silva Ramalho, tenho 20 anos e sou formado em Análi
 ![Mysql](https://img.shields.io/badge/-mysql-FFB169?style=for-the-badge&logo=mysql&logoColor=0D1117)
 ![CypressJS](https://img.shields.io/badge/Cypress-FFB169?style=for-the-badge&logo=cypress&logoColor=0D1117)
 
-### Quer entrar em contato comigo? Pode me chamar em...
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabioDev21&show_icons=true&bg_color=39414E&text_color=d7d2cc&icon_color=d7d2cc&title_color=d7d2cc&border_color=d7d2cc&border_radius=15&locale=pt-br">
+</div>
+
+### Quer entrar em contato comigo? Aqui estão minhas redes!
 <a href="https://www.instagram.com/dasilvafabio_/"
   target="_blank">
-  <img alt="instagram"
+  <img alt="instagram logo"
   title="Me siga no Instagram!"
   src="https://img.shields.io/badge/Instagram-E4705F?style=for-the-badge&logo=instagram&logoColor=white"
   style="border-radius: 30px">
 </a>
 <a href="https://www.linkedin.com/in/fabiodasilvaramalho/" 
   target="_blank">
-  <img alt="linkedin"
+  <img alt="linkedin logo"
   title="Entre em contato via Linkedin"
   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
   style="border-radius: 30px">
 </a> 
 </div>
-
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=fabioDev21&show_icons=true&bg_color=39414E&text_color=d7d2cc&icon_color=d7d2cc&title_color=d7d2cc&border_color=d7d2cc&border_radius=15&locale=pt-br">
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFB169&section=footer&reversal=false&textBg=false">
 
