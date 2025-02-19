@@ -4,6 +4,9 @@
 ### Olá! Meu nome é Fábio da Silva e deixa eu me apresentar...
 Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, onde desenvolvi minha curiosidade e paixão pela tecnologia e solução de problemas através do código. Busco atuar como Analista de Qualidade de Software ou Desenvolvedor frontend. Em minhas horas vagas, crio projetos frontend e backend, realizo testes de software, modelo e administro banco de dados e produzo alguns jogos!
 
+<br/>
+<br/>
+
 ### Minhas linguagens & Ferramentas:
 <img 
     align="left"
@@ -55,6 +58,7 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 />
 
 <br/>
+<br/>
 
 ### Essas são minhas redes sociais
 <a href="https://www.instagram.com/dasilvafabio_/"
@@ -98,6 +102,9 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 
 
 </p>
+
+<br/>
+<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFB169&section=footer&reversal=false&textBg=false">
 
