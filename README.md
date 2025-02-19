@@ -6,11 +6,54 @@
 Olá! Meu nome é Fábio da Silva Ramalho, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, onde desenvolvi minha curiosidade pela tecnologia. Busco atuar como Analista de Qualidade de Software e, nas horas vagas, crio projetos web (frontend e backend), banco de dados, testes de software e games!
 
 ### Linguagens & Ferramentas:
-![HTML5](https://img.shields.io/badge/-html5-FFB169?style=for-the-badge&logo=html5&logoColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-FFB169?style=for-the-badge&logo=CSS3&logoColor=1572B6&logoColor=0D1116)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFB169?style=for-the-badge&logo=javascript&logoColor=0D1117)
-![Mysql](https://img.shields.io/badge/-mysql-FFB169?style=for-the-badge&logo=mysql&logoColor=0D1117)
-![CypressJS](https://img.shields.io/badge/Cypress-FFB169?style=for-the-badge&logo=cypress&logoColor=0D1117)
+<img 
+    align="center" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
+  />
+<img 
+    align="center" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+    align="center" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 
 ### Aqui estão minhas redes!
 <a href="https://www.instagram.com/dasilvafabio_/"
