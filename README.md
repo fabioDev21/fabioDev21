@@ -57,6 +57,7 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 />
 
 <br/>
+<br/>
 
 ### Essas são minhas redes sociais
 <a href="https://www.instagram.com/dasilvafabio_/"
@@ -79,6 +80,7 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 </a> 
 
 <br/>
+<br/>
 
 ### Confira minhas estatísticas
 <p>
@@ -86,13 +88,7 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=fabioDev21&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioDev21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+    src="https://github-readme-stats.vercel.app/api?username=fabioDev21&theme=slateorange&include_all_commits=true&locale=pt-br" 
   />
 </p>
 
