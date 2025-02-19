@@ -5,7 +5,6 @@
 Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, onde desenvolvi minha curiosidade e paixão pela tecnologia e solução de problemas através do código. Busco atuar como Analista de Qualidade de Software ou Desenvolvedor frontend. Em minhas horas vagas, crio projetos frontend e backend, realizo testes de software, modelo e administro banco de dados e produzo alguns jogos!
 
 <br/>
-<br/>
 
 ### Minhas linguagens & Ferramentas:
 <img 
@@ -58,7 +57,6 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 />
 
 <br/>
-<br/>
 
 ### Essas são minhas redes sociais
 <a href="https://www.instagram.com/dasilvafabio_/"
@@ -81,7 +79,6 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 </a> 
 
 <br/>
-<br/>
 
 ### Confira minhas estatísticas
 <p>
@@ -89,14 +86,14 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioDev21&theme=slateorange&layout=compact&custom_title=Tecnologias" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioDev21&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: -15px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fabioDev21&show_icons=true&theme=slateorange&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=fabioDev21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 
