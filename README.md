@@ -84,17 +84,15 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"  
+    width="450" 
     src="https://github-readme-stats.vercel.app/api?username=fabioDev21&show_icons=true&theme=slateorange&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioDev21&theme=slateorange&layout=compact&custom_title=Tecnologias" 
   />
-
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFB169&section=footer&reversal=false&textBg=false">
