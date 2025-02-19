@@ -81,6 +81,12 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 
 ### Confira minhas estatísticas
 <p>
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioDev21&theme=slateorange&layout=compact&custom_title=Tecnologias" 
+  />
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -89,12 +95,7 @@ Tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
     src="https://github-readme-stats.vercel.app/api?username=fabioDev21&show_icons=true&theme=slateorange&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioDev21&theme=slateorange&layout=compact&custom_title=Tecnologias" 
-  />
+
 
 </p>
 
