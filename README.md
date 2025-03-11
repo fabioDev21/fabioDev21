@@ -58,15 +58,7 @@ Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 <br/>
 <br/>
 
-### Essas são minhas redes sociais
-<a href="https://www.instagram.com/dasilvafabio_/"
-  target="_blank">
-  <img alt="instagram logo"
-    align="left"
-    title="Me siga no Instagram!"
-    src="https://img.shields.io/badge/Instagram-E4705F?style=for-the-badge&logo=instagram&logoColor=white"
-    style="border-radius: 30px">
-</a>
+### EEntre em contato comigo!
 <a 
   href="https://www.linkedin.com/in/fabiodasilvaramalho/" 
   target="_blank">
