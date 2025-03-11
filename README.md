@@ -58,7 +58,7 @@ Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
 <br/>
 <br/>
 
-### EEntre em contato comigo!
+### Entre em contato comigo!
 <a 
   href="https://www.linkedin.com/in/fabiodasilvaramalho/" 
   target="_blank">
