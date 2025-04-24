@@ -62,6 +62,14 @@ Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Unive
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"
+/>
 
 
 <br/>
